@@ -1,5 +1,8 @@
 import { config } from "../config.js";
-// # 解构
+
+/**
+ * HTTP请求类
+ */
 class HTTP {
   request({ url, data = {}, method = "GET" }) {
     return new Promise((resolve, reject) => {
