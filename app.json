@@ -1,12 +1,54 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/trending/index",
+    "pages/plugin/home/home",
+    "pages/about/home/home",
+    "pages/basics/home/home",
+    "pages/component/home/home",
+    "pages/activity/index",
+    "pages/hot/index",
+    "pages/my/index",
+    "pages/search/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "ColorUI",
+    "navigationBarTitleText": "GiotCode",
     "navigationStyle": "custom",
     "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "custom": true,
+    "color": "#aaa",
+    "selectedColor": "#39b54a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/trending/index",
+        "iconPath": "public/images/tabbar/basics.png",
+        "selectedIconPath": "public/images/tabbar/basics_cur.png",
+        "text": "趋势"
+      },
+      {
+        "pagePath": "pages/component/home/home",
+        "iconPath": "public/images/tabbar/component.png",
+        "selectedIconPath": "public/images/tabbar/component_cur.png",
+        "text": "最热"
+      },
+      {
+        "pagePath": "pages/plugin/home/home",
+        "iconPath": "public/images/tabbar/plugin.png",
+        "selectedIconPath": "public/images/tabbar/plugin_cur.png",
+        "text": "收藏"
+      },
+      {
+        "pagePath": "pages/about/home/home",
+        "iconPath": "public/images/tabbar/about.png",
+        "selectedIconPath": "public/images/tabbar/about_cur.png",
+        "text": "我的"
+      }
+    ]
   }
 }
