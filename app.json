@@ -1,14 +1,11 @@
 {
   "pages": [
     "pages/trending/index",
-    "pages/plugin/home/home",
-    "pages/about/home/home",
-    "pages/basics/home/home",
-    "pages/component/home/home",
-    "pages/activity/index",
     "pages/hot/index",
+    "pages/search/index",
+    "pages/activity/index",
     "pages/my/index",
-    "pages/search/index"
+    "custom-tab-bar/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -17,7 +14,6 @@
     "navigationStyle": "custom",
     "navigationBarTextStyle": "white"
   },
-  "usingComponents": {},
   "tabBar": {
     "custom": true,
     "color": "#aaa",
@@ -27,26 +23,32 @@
     "list": [
       {
         "pagePath": "pages/trending/index",
-        "iconPath": "public/images/tabbar/basics.png",
-        "selectedIconPath": "public/images/tabbar/basics_cur.png",
+        "iconPath": "/public/images/tabbar/basics.png",
+        "selectedIconPath": "/public/images/tabbar/basics_cur.png",
         "text": "趋势"
       },
       {
-        "pagePath": "pages/component/home/home",
-        "iconPath": "public/images/tabbar/component.png",
-        "selectedIconPath": "public/images/tabbar/component_cur.png",
+        "pagePath": "pages/hot/index",
+        "iconPath": "/public/images/tabbar/basics.png",
+        "selectedIconPath": "/public/images/tabbar/basics_cur.png",
         "text": "最热"
       },
       {
-        "pagePath": "pages/plugin/home/home",
-        "iconPath": "public/images/tabbar/plugin.png",
-        "selectedIconPath": "public/images/tabbar/plugin_cur.png",
-        "text": "收藏"
+        "pagePath": "pages/search/index",
+        "iconPath": "/public/images/tabbar/basics.png",
+        "selectedIconPath": "/public/images/tabbar/basics_cur.png",
+        "text": "搜索"
       },
       {
-        "pagePath": "pages/about/home/home",
-        "iconPath": "public/images/tabbar/about.png",
-        "selectedIconPath": "public/images/tabbar/about_cur.png",
+        "pagePath": "pages/activity/index",
+        "iconPath": "/public/images/tabbar/basics.png",
+        "selectedIconPath": "/public/images/tabbar/basics_cur.png",
+        "text": "动态"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "iconPath": "/public/images/tabbar/basics.png",
+        "selectedIconPath": "/public/images/tabbar/basics_cur.png",
         "text": "我的"
       }
     ]
