@@ -37,26 +37,21 @@ Component({
       }
     ]
   },
-  attached() {
-    console.log("11111111")
-  },
   methods: {
     switchTab(e) {
-      console.log(e);
       const url = e.currentTarget.dataset.path;
       const index = e.currentTarget.dataset.index;
       if (index == 2) {
+        console.log(url)
         wx.navigateTo({
-          url: url
+          url: url,
+          fail:(e)=>{
+            console.log(e)
+          }
         });
       } else {
         wx.switchTab({
-          url,
-          success: e => {
-            this.setData({
-              selected: index
-            });
-          }
+          url
         });
       }
     }

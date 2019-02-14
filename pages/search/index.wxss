@@ -1,4 +1,1 @@
 /* pages/search/index.wxss */
-page{
-  padding-bottom: 100rpx;
-}

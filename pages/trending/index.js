@@ -21,8 +21,15 @@ Component({
    * 组件的方法列表
    */
   methods: {
-    onLoad() {
-
+  },
+  pageLifetimes: {
+    show() {
+      if (typeof this.getTabBar === 'function' &&
+        this.getTabBar()) {
+        this.getTabBar().setData({
+          selected: 0
+        })
+      }
     }
   }
 });
