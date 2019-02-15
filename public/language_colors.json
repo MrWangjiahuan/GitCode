@@ -1,0 +1,1406 @@
+{
+  "All Languages": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending"
+  },
+  "Unknown languages": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/unknown"
+  },
+  "C#": {
+    "color": "#178600",
+    "url": "https://github.com/trending/Csharp"
+  },
+  "C++": {
+    "color": "#f34b7d",
+    "url": "https://github.com/trending/C++"
+  },
+  "Java": {
+    "color": "#b07219",
+    "url": "https://github.com/trending/Java"
+  },
+  "JavaScript": {
+    "color": "#f1e05a",
+    "url": "https://github.com/trending/JavaScript"
+  },
+  "Objective-C": {
+    "color": "#438eff",
+    "url": "https://github.com/trending/Objective-C"
+  },
+  "Python": {
+    "color": "#3572A5",
+    "url": "https://github.com/trending/Python"
+  },
+  "Vue": {
+    "color": "#2c3e50",
+    "url": "https://github.com/trending/Vue"
+  },
+  "CSS": {
+    "color": "#563d7c",
+    "url": "https://github.com/trending/CSS"
+  },
+  "PHP": {
+    "color": "#4F5D95",
+    "url": "https://github.com/trending/PHP"
+  },
+  "1C Enterprise": {
+    "color": "#814CCC",
+    "url": "https://github.com/trending/1C-Enterprise"
+  },
+  "ABAP": {
+    "color": "#E8274B",
+    "url": "https://github.com/trending/ABAP"
+  },
+  "ActionScript": {
+    "color": "#882B0F",
+    "url": "https://github.com/trending/ActionScript"
+  },
+  "Ada": {
+    "color": "#02f88c",
+    "url": "https://github.com/trending/Ada"
+  },
+  "Agda": {
+    "color": "#315665",
+    "url": "https://github.com/trending/Agda"
+  },
+  "AGS Script": {
+    "color": "#B9D9FF",
+    "url": "https://github.com/trending/AGS-Script"
+  },
+  "Alloy": {
+    "color": "#64C800",
+    "url": "https://github.com/trending/Alloy"
+  },
+  "Alpine Abuild": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Alpine-Abuild"
+  },
+  "AMPL": {
+    "color": "#E6EFBB",
+    "url": "https://github.com/trending/AMPL"
+  },
+  "ANTLR": {
+    "color": "#9DC3FF",
+    "url": "https://github.com/trending/ANTLR"
+  },
+  "Apex": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Apex"
+  },
+  "API Blueprint": {
+    "color": "#2ACCA8",
+    "url": "https://github.com/trending/API-Blueprint"
+  },
+  "APL": {
+    "color": "#5A8164",
+    "url": "https://github.com/trending/APL"
+  },
+  "Apollo Guidance Computer": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Apollo-Guidance-Computer"
+  },
+  "AppleScript": {
+    "color": "#101F1F",
+    "url": "https://github.com/trending/AppleScript"
+  },
+  "Arc": {
+    "color": "#aa2afe",
+    "url": "https://github.com/trending/Arc"
+  },
+  "Arduino": {
+    "color": "#bd79d1",
+    "url": "https://github.com/trending/Arduino"
+  },
+  "ASP": {
+    "color": "#6a40fd",
+    "url": "https://github.com/trending/ASP"
+  },
+  "AspectJ": {
+    "color": "#a957b0",
+    "url": "https://github.com/trending/AspectJ"
+  },
+  "Assembly": {
+    "color": "#6E4C13",
+    "url": "https://github.com/trending/Assembly"
+  },
+  "ATS": {
+    "color": "#1ac620",
+    "url": "https://github.com/trending/ATS"
+  },
+  "Augeas": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Augeas"
+  },
+  "AutoHotkey": {
+    "color": "#6594b9",
+    "url": "https://github.com/trending/AutoHotkey"
+  },
+  "AutoIt": {
+    "color": "#1C3552",
+    "url": "https://github.com/trending/AutoIt"
+  },
+  "Awk": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Awk"
+  },
+  "Ballerina": {
+    "color": "#FF5000",
+    "url": "https://github.com/trending/Ballerina"
+  },
+  "Batchfile": {
+    "color": "#C1F12E",
+    "url": "https://github.com/trending/Batchfile"
+  },
+  "Befunge": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Befunge"
+  },
+  "Bison": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Bison"
+  },
+  "BitBake": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/BitBake"
+  },
+  "BlitzBasic": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/BlitzBasic"
+  },
+  "BlitzMax": {
+    "color": "#cd6400",
+    "url": "https://github.com/trending/BlitzMax"
+  },
+  "Bluespec": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Bluespec"
+  },
+  "Boo": {
+    "color": "#d4bec1",
+    "url": "https://github.com/trending/Boo"
+  },
+  "Brainfuck": {
+    "color": "#2F2530",
+    "url": "https://github.com/trending/Brainfuck"
+  },
+  "Brightscript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Brightscript"
+  },
+  "Bro": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Bro"
+  },
+  "C": {
+    "color": "#555555",
+    "url": "https://github.com/trending/C"
+  },
+  "C2hs Haskell": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/C2hs-Haskell"
+  },
+  "Cap'n Proto": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Cap'n-Proto"
+  },
+  "CartoCSS": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/CartoCSS"
+  },
+  "Ceylon": {
+    "color": "#dfa535",
+    "url": "https://github.com/trending/Ceylon"
+  },
+  "Chapel": {
+    "color": "#8dc63f",
+    "url": "https://github.com/trending/Chapel"
+  },
+  "Charity": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Charity"
+  },
+  "ChucK": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/ChucK"
+  },
+  "Cirru": {
+    "color": "#ccccff",
+    "url": "https://github.com/trending/Cirru"
+  },
+  "Clarion": {
+    "color": "#db901e",
+    "url": "https://github.com/trending/Clarion"
+  },
+  "Clean": {
+    "color": "#3F85AF",
+    "url": "https://github.com/trending/Clean"
+  },
+  "Click": {
+    "color": "#E4E6F3",
+    "url": "https://github.com/trending/Click"
+  },
+  "CLIPS": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/CLIPS"
+  },
+  "Clojure": {
+    "color": "#db5855",
+    "url": "https://github.com/trending/Clojure"
+  },
+  "CMake": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/CMake"
+  },
+  "COBOL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/COBOL"
+  },
+  "CoffeeScript": {
+    "color": "#244776",
+    "url": "https://github.com/trending/CoffeeScript"
+  },
+  "ColdFusion": {
+    "color": "#ed2cd6",
+    "url": "https://github.com/trending/ColdFusion"
+  },
+  "ColdFusion CFC": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/ColdFusion-CFC"
+  },
+  "Common Lisp": {
+    "color": "#3fb68b",
+    "url": "https://github.com/trending/Common-Lisp"
+  },
+  "Component Pascal": {
+    "color": "#B0CE4E",
+    "url": "https://github.com/trending/Component-Pascal"
+  },
+  "Cool": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Cool"
+  },
+  "Coq": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Coq"
+  },
+  "Crystal": {
+    "color": "#776791",
+    "url": "https://github.com/trending/Crystal"
+  },
+  "Csound": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Csound"
+  },
+  "Csound Document": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Csound-Document"
+  },
+  "Csound Score": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Csound-Score"
+  },
+  "Cuda": {
+    "color": "#3A4E3A",
+    "url": "https://github.com/trending/Cuda"
+  },
+  "CWeb": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/CWeb"
+  },
+  "Cycript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Cycript"
+  },
+  "Cython": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Cython"
+  },
+  "D": {
+    "color": "#ba595e",
+    "url": "https://github.com/trending/D"
+  },
+  "Dart": {
+    "color": "#00B4AB",
+    "url": "https://github.com/trending/Dart"
+  },
+  "DataWeave": {
+    "color": "#003a52",
+    "url": "https://github.com/trending/DataWeave"
+  },
+  "DIGITAL Command Language": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/DIGITAL-Command-Language"
+  },
+  "DM": {
+    "color": "#447265",
+    "url": "https://github.com/trending/DM"
+  },
+  "Dogescript": {
+    "color": "#cca760",
+    "url": "https://github.com/trending/Dogescript"
+  },
+  "DTrace": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/DTrace"
+  },
+  "Dylan": {
+    "color": "#6c616e",
+    "url": "https://github.com/trending/Dylan"
+  },
+  "E": {
+    "color": "#ccce35",
+    "url": "https://github.com/trending/E"
+  },
+  "eC": {
+    "color": "#913960",
+    "url": "https://github.com/trending/eC"
+  },
+  "ECL": {
+    "color": "#8a1267",
+    "url": "https://github.com/trending/ECL"
+  },
+  "ECLiPSe": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/ECLiPSe"
+  },
+  "Eiffel": {
+    "color": "#946d57",
+    "url": "https://github.com/trending/Eiffel"
+  },
+  "Elixir": {
+    "color": "#6e4a7e",
+    "url": "https://github.com/trending/Elixir"
+  },
+  "Elm": {
+    "color": "#60B5CC",
+    "url": "https://github.com/trending/Elm"
+  },
+  "Emacs Lisp": {
+    "color": "#c065db",
+    "url": "https://github.com/trending/Emacs-Lisp"
+  },
+  "EmberScript": {
+    "color": "#FFF4F3",
+    "url": "https://github.com/trending/EmberScript"
+  },
+  "EQ": {
+    "color": "#a78649",
+    "url": "https://github.com/trending/EQ"
+  },
+  "Erlang": {
+    "color": "#B83998",
+    "url": "https://github.com/trending/Erlang"
+  },
+  "F#": {
+    "color": "#b845fc",
+    "url": "https://github.com/trending/Fsharp"
+  },
+  "Factor": {
+    "color": "#636746",
+    "url": "https://github.com/trending/Factor"
+  },
+  "Fancy": {
+    "color": "#7b9db4",
+    "url": "https://github.com/trending/Fancy"
+  },
+  "Fantom": {
+    "color": "#14253c",
+    "url": "https://github.com/trending/Fantom"
+  },
+  "Filebench WML": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Filebench-WML"
+  },
+  "Filterscript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Filterscript"
+  },
+  "fish": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/fish"
+  },
+  "FLUX": {
+    "color": "#88ccff",
+    "url": "https://github.com/trending/FLUX"
+  },
+  "Forth": {
+    "color": "#341708",
+    "url": "https://github.com/trending/Forth"
+  },
+  "Fortran": {
+    "color": "#4d41b1",
+    "url": "https://github.com/trending/Fortran"
+  },
+  "FreeMarker": {
+    "color": "#0050b2",
+    "url": "https://github.com/trending/FreeMarker"
+  },
+  "Frege": {
+    "color": "#00cafe",
+    "url": "https://github.com/trending/Frege"
+  },
+  "Game Maker Language": {
+    "color": "#8fb200",
+    "url": "https://github.com/trending/Game-Maker-Language"
+  },
+  "GAMS": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/GAMS"
+  },
+  "GAP": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/GAP"
+  },
+  "GCC Machine Description": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/GCC-Machine-Description"
+  },
+  "GDB": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/GDB"
+  },
+  "GDScript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/GDScript"
+  },
+  "Genie": {
+    "color": "#fb855d",
+    "url": "https://github.com/trending/Genie"
+  },
+  "Genshi": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Genshi"
+  },
+  "Gentoo Ebuild": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Gentoo-Ebuild"
+  },
+  "Gentoo Eclass": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Gentoo-Eclass"
+  },
+  "Gherkin": {
+    "color": "#5B2063",
+    "url": "https://github.com/trending/Gherkin"
+  },
+  "GLSL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/GLSL"
+  },
+  "Glyph": {
+    "color": "#e4cc98",
+    "url": "https://github.com/trending/Glyph"
+  },
+  "Gnuplot": {
+    "color": "#f0a9f0",
+    "url": "https://github.com/trending/Gnuplot"
+  },
+  "Go": {
+    "color": "#375eab",
+    "url": "https://github.com/trending/Go"
+  },
+  "Golo": {
+    "color": "#88562A",
+    "url": "https://github.com/trending/Golo"
+  },
+  "Gosu": {
+    "color": "#82937f",
+    "url": "https://github.com/trending/Gosu"
+  },
+  "Grace": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Grace"
+  },
+  "Grammatical Framework": {
+    "color": "#79aa7a",
+    "url": "https://github.com/trending/Grammatical-Framework"
+  },
+  "Groovy": {
+    "color": "#e69f56",
+    "url": "https://github.com/trending/Groovy"
+  },
+  "Groovy Server Pages": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Groovy-Server-Pages"
+  },
+  "Hack": {
+    "color": "#878787",
+    "url": "https://github.com/trending/Hack"
+  },
+  "Harbour": {
+    "color": "#0e60e3",
+    "url": "https://github.com/trending/Harbour"
+  },
+  "Haskell": {
+    "color": "#5e5086",
+    "url": "https://github.com/trending/Haskell"
+  },
+  "Haxe": {
+    "color": "#df7900",
+    "url": "https://github.com/trending/Haxe"
+  },
+  "HCL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/HCL"
+  },
+  "HLSL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/HLSL"
+  },
+  "HTML": {
+    "color": "#e34c26",
+    "url": "https://github.com/trending/HTML"
+  },
+  "Hy": {
+    "color": "#7790B2",
+    "url": "https://github.com/trending/Hy"
+  },
+  "HyPhy": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/HyPhy"
+  },
+  "IDL": {
+    "color": "#a3522f",
+    "url": "https://github.com/trending/IDL"
+  },
+  "Idris": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Idris"
+  },
+  "IGOR Pro": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/IGOR-Pro"
+  },
+  "Inform 7": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Inform-7"
+  },
+  "Inno Setup": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Inno-Setup"
+  },
+  "Io": {
+    "color": "#a9188d",
+    "url": "https://github.com/trending/Io"
+  },
+  "Ioke": {
+    "color": "#078193",
+    "url": "https://github.com/trending/Ioke"
+  },
+  "Isabelle": {
+    "color": "#FEFE00",
+    "url": "https://github.com/trending/Isabelle"
+  },
+  "Isabelle ROOT": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Isabelle-ROOT"
+  },
+  "J": {
+    "color": "#9EEDFF",
+    "url": "https://github.com/trending/J"
+  },
+  "Jasmin": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Jasmin"
+  },
+  "Java Server Pages": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Java-Server-Pages"
+  },
+  "JFlex": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/JFlex"
+  },
+  "Jison": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Jison"
+  },
+  "Jison Lex": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Jison-Lex"
+  },
+  "Jolie": {
+    "color": "#843179",
+    "url": "https://github.com/trending/Jolie"
+  },
+  "JSONiq": {
+    "color": "#40d47e",
+    "url": "https://github.com/trending/JSONiq"
+  },
+  "JSX": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/JSX"
+  },
+  "Julia": {
+    "color": "#a270ba",
+    "url": "https://github.com/trending/Julia"
+  },
+  "Jupyter Notebook": {
+    "color": "#DA5B0B",
+    "url": "https://github.com/trending/Jupyter-Notebook"
+  },
+  "Kotlin": {
+    "color": "#F18E33",
+    "url": "https://github.com/trending/Kotlin"
+  },
+  "KRL": {
+    "color": "#28431f",
+    "url": "https://github.com/trending/KRL"
+  },
+  "LabVIEW": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/LabVIEW"
+  },
+  "Lasso": {
+    "color": "#999999",
+    "url": "https://github.com/trending/Lasso"
+  },
+  "Lean": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Lean"
+  },
+  "Lex": {
+    "color": "#DBCA00",
+    "url": "https://github.com/trending/Lex"
+  },
+  "LFE": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/LFE"
+  },
+  "LilyPond": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/LilyPond"
+  },
+  "Limbo": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Limbo"
+  },
+  "Literate Agda": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Literate-Agda"
+  },
+  "Literate CoffeeScript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Literate-CoffeeScript"
+  },
+  "Literate Haskell": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Literate-Haskell"
+  },
+  "LiveScript": {
+    "color": "#499886",
+    "url": "https://github.com/trending/LiveScript"
+  },
+  "LLVM": {
+    "color": "#185619",
+    "url": "https://github.com/trending/LLVM"
+  },
+  "Logos": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Logos"
+  },
+  "Logtalk": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Logtalk"
+  },
+  "LOLCODE": {
+    "color": "#cc9900",
+    "url": "https://github.com/trending/LOLCODE"
+  },
+  "LookML": {
+    "color": "#652B81",
+    "url": "https://github.com/trending/LookML"
+  },
+  "LoomScript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/LoomScript"
+  },
+  "LSL": {
+    "color": "#3d9970",
+    "url": "https://github.com/trending/LSL"
+  },
+  "Lua": {
+    "color": "#000080",
+    "url": "https://github.com/trending/Lua"
+  },
+  "M": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/M"
+  },
+  "M4": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/M4"
+  },
+  "M4Sugar": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/M4Sugar"
+  },
+  "Makefile": {
+    "color": "#427819",
+    "url": "https://github.com/trending/Makefile"
+  },
+  "Mako": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Mako"
+  },
+  "Mask": {
+    "color": "#f97732",
+    "url": "https://github.com/trending/Mask"
+  },
+  "Mathematica": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Mathematica"
+  },
+  "Matlab": {
+    "color": "#e16737",
+    "url": "https://github.com/trending/Matlab"
+  },
+  "Max": {
+    "color": "#c4a79c",
+    "url": "https://github.com/trending/Max"
+  },
+  "MAXScript": {
+    "color": "#00a6a6",
+    "url": "https://github.com/trending/MAXScript"
+  },
+  "Mercury": {
+    "color": "#ff2b2b",
+    "url": "https://github.com/trending/Mercury"
+  },
+  "Meson": {
+    "color": "#007800",
+    "url": "https://github.com/trending/Meson"
+  },
+  "Metal": {
+    "color": "#8f14e9",
+    "url": "https://github.com/trending/Metal"
+  },
+  "MiniD": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/MiniD"
+  },
+  "Mirah": {
+    "color": "#c7a938",
+    "url": "https://github.com/trending/Mirah"
+  },
+  "Modelica": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Modelica"
+  },
+  "Modula-2": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Modula-2"
+  },
+  "Module Management System": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Module-Management-System"
+  },
+  "Monkey": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Monkey"
+  },
+  "Moocode": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Moocode"
+  },
+  "MoonScript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/MoonScript"
+  },
+  "MQL4": {
+    "color": "#62A8D6",
+    "url": "https://github.com/trending/MQL4"
+  },
+  "MQL5": {
+    "color": "#4A76B8",
+    "url": "https://github.com/trending/MQL5"
+  },
+  "MTML": {
+    "color": "#b7e1f4",
+    "url": "https://github.com/trending/MTML"
+  },
+  "MUF": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/MUF"
+  },
+  "mupad": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/mupad"
+  },
+  "Myghty": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Myghty"
+  },
+  "NCL": {
+    "color": "#28431f",
+    "url": "https://github.com/trending/NCL"
+  },
+  "Nearley": {
+    "color": "#990000",
+    "url": "https://github.com/trending/Nearley"
+  },
+  "Nemerle": {
+    "color": "#3d3c6e",
+    "url": "https://github.com/trending/Nemerle"
+  },
+  "nesC": {
+    "color": "#94B0C7",
+    "url": "https://github.com/trending/nesC"
+  },
+  "NetLinx": {
+    "color": "#0aa0ff",
+    "url": "https://github.com/trending/NetLinx"
+  },
+  "NetLinx+ERB": {
+    "color": "#747faa",
+    "url": "https://github.com/trending/NetLinx+ERB"
+  },
+  "NetLogo": {
+    "color": "#ff6375",
+    "url": "https://github.com/trending/NetLogo"
+  },
+  "NewLisp": {
+    "color": "#87AED7",
+    "url": "https://github.com/trending/NewLisp"
+  },
+  "Nim": {
+    "color": "#37775b",
+    "url": "https://github.com/trending/Nim"
+  },
+  "Nit": {
+    "color": "#009917",
+    "url": "https://github.com/trending/Nit"
+  },
+  "Nix": {
+    "color": "#7e7eff",
+    "url": "https://github.com/trending/Nix"
+  },
+  "NSIS": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/NSIS"
+  },
+  "Nu": {
+    "color": "#c9df40",
+    "url": "https://github.com/trending/Nu"
+  },
+  "NumPy": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/NumPy"
+  },
+  "Objective-C++": {
+    "color": "#6866fb",
+    "url": "https://github.com/trending/Objective-C++"
+  },
+  "Objective-J": {
+    "color": "#ff0c5a",
+    "url": "https://github.com/trending/Objective-J"
+  },
+  "OCaml": {
+    "color": "#3be133",
+    "url": "https://github.com/trending/OCaml"
+  },
+  "Omgrofl": {
+    "color": "#cabbff",
+    "url": "https://github.com/trending/Omgrofl"
+  },
+  "ooc": {
+    "color": "#b0b77e",
+    "url": "https://github.com/trending/ooc"
+  },
+  "Opa": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Opa"
+  },
+  "Opal": {
+    "color": "#f7ede0",
+    "url": "https://github.com/trending/Opal"
+  },
+  "OpenCL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/OpenCL"
+  },
+  "OpenEdge ABL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/OpenEdge-ABL"
+  },
+  "OpenRC runscript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/OpenRC-runscript"
+  },
+  "OpenSCAD": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/OpenSCAD"
+  },
+  "Ox": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Ox"
+  },
+  "Oxygene": {
+    "color": "#cdd0e3",
+    "url": "https://github.com/trending/Oxygene"
+  },
+  "Oz": {
+    "color": "#fab738",
+    "url": "https://github.com/trending/Oz"
+  },
+  "P4": {
+    "color": "#7055b5",
+    "url": "https://github.com/trending/P4"
+  },
+  "Pan": {
+    "color": "#cc0000",
+    "url": "https://github.com/trending/Pan"
+  },
+  "Papyrus": {
+    "color": "#6600cc",
+    "url": "https://github.com/trending/Papyrus"
+  },
+  "Parrot": {
+    "color": "#f3ca0a",
+    "url": "https://github.com/trending/Parrot"
+  },
+  "Parrot Assembly": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Parrot-Assembly"
+  },
+  "Parrot Internal Representation": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Parrot-Internal-Representation"
+  },
+  "Pascal": {
+    "color": "#E3F171",
+    "url": "https://github.com/trending/Pascal"
+  },
+  "PAWN": {
+    "color": "#dbb284",
+    "url": "https://github.com/trending/PAWN"
+  },
+  "Pep8": {
+    "color": "#C76F5B",
+    "url": "https://github.com/trending/Pep8"
+  },
+  "Perl": {
+    "color": "#0298c3",
+    "url": "https://github.com/trending/Perl"
+  },
+  "Perl 6": {
+    "color": "#0000fb",
+    "url": "https://github.com/trending/Perl-6"
+  },
+  "PicoLisp": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/PicoLisp"
+  },
+  "PigLatin": {
+    "color": "#fcd7de",
+    "url": "https://github.com/trending/PigLatin"
+  },
+  "Pike": {
+    "color": "#005390",
+    "url": "https://github.com/trending/Pike"
+  },
+  "PLpgSQL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/PLpgSQL"
+  },
+  "PLSQL": {
+    "color": "#dad8d8",
+    "url": "https://github.com/trending/PLSQL"
+  },
+  "PogoScript": {
+    "color": "#d80074",
+    "url": "https://github.com/trending/PogoScript"
+  },
+  "Pony": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Pony"
+  },
+  "PostScript": {
+    "color": "#da291c",
+    "url": "https://github.com/trending/PostScript"
+  },
+  "POV-Ray SDL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/POV-Ray-SDL"
+  },
+  "PowerBuilder": {
+    "color": "#8f0f8d",
+    "url": "https://github.com/trending/PowerBuilder"
+  },
+  "PowerShell": {
+    "color": "#012456",
+    "url": "https://github.com/trending/PowerShell"
+  },
+  "Processing": {
+    "color": "#0096D8",
+    "url": "https://github.com/trending/Processing"
+  },
+  "Prolog": {
+    "color": "#74283c",
+    "url": "https://github.com/trending/Prolog"
+  },
+  "Propeller Spin": {
+    "color": "#7fa2a7",
+    "url": "https://github.com/trending/Propeller-Spin"
+  },
+  "Puppet": {
+    "color": "#302B6D",
+    "url": "https://github.com/trending/Puppet"
+  },
+  "PureBasic": {
+    "color": "#5a6986",
+    "url": "https://github.com/trending/PureBasic"
+  },
+  "PureScript": {
+    "color": "#1D222D",
+    "url": "https://github.com/trending/PureScript"
+  },
+  "Python console": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Python-console"
+  },
+  "QMake": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/QMake"
+  },
+  "QML": {
+    "color": "#44a51c",
+    "url": "https://github.com/trending/QML"
+  },
+  "R": {
+    "color": "#198CE7",
+    "url": "https://github.com/trending/R"
+  },
+  "Racket": {
+    "color": "#22228f",
+    "url": "https://github.com/trending/Racket"
+  },
+  "Ragel": {
+    "color": "#9d5200",
+    "url": "https://github.com/trending/Ragel"
+  },
+  "RAML": {
+    "color": "#77d9fb",
+    "url": "https://github.com/trending/RAML"
+  },
+  "Rascal": {
+    "color": "#fffaa0",
+    "url": "https://github.com/trending/Rascal"
+  },
+  "REALbasic": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/REALbasic"
+  },
+  "Reason": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Reason"
+  },
+  "Rebol": {
+    "color": "#358a5b",
+    "url": "https://github.com/trending/Rebol"
+  },
+  "Red": {
+    "color": "#f50000",
+    "url": "https://github.com/trending/Red"
+  },
+  "Redcode": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Redcode"
+  },
+  "Ren'Py": {
+    "color": "#ff7f7f",
+    "url": "https://github.com/trending/Ren'Py"
+  },
+  "RenderScript": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/RenderScript"
+  },
+  "REXX": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/REXX"
+  },
+  "Ring": {
+    "color": "#0e60e3",
+    "url": "https://github.com/trending/Ring"
+  },
+  "RobotFramework": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/RobotFramework"
+  },
+  "Roff": {
+    "color": "#ecdebe",
+    "url": "https://github.com/trending/Roff"
+  },
+  "Rouge": {
+    "color": "#cc0088",
+    "url": "https://github.com/trending/Rouge"
+  },
+  "Ruby": {
+    "color": "#701516",
+    "url": "https://github.com/trending/Ruby"
+  },
+  "RUNOFF": {
+    "color": "#665a4e",
+    "url": "https://github.com/trending/RUNOFF"
+  },
+  "Rust": {
+    "color": "#dea584",
+    "url": "https://github.com/trending/Rust"
+  },
+  "Sage": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Sage"
+  },
+  "SaltStack": {
+    "color": "#646464",
+    "url": "https://github.com/trending/SaltStack"
+  },
+  "SAS": {
+    "color": "#B34936",
+    "url": "https://github.com/trending/SAS"
+  },
+  "Scala": {
+    "color": "#c22d40",
+    "url": "https://github.com/trending/Scala"
+  },
+  "Scheme": {
+    "color": "#1e4aec",
+    "url": "https://github.com/trending/Scheme"
+  },
+  "Scilab": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Scilab"
+  },
+  "Self": {
+    "color": "#0579aa",
+    "url": "https://github.com/trending/Self"
+  },
+  "ShaderLab": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/ShaderLab"
+  },
+  "Shell": {
+    "color": "#89e051",
+    "url": "https://github.com/trending/Shell"
+  },
+  "ShellSession": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/ShellSession"
+  },
+  "Shen": {
+    "color": "#120F14",
+    "url": "https://github.com/trending/Shen"
+  },
+  "Slash": {
+    "color": "#007eff",
+    "url": "https://github.com/trending/Slash"
+  },
+  "Smali": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Smali"
+  },
+  "Smalltalk": {
+    "color": "#596706",
+    "url": "https://github.com/trending/Smalltalk"
+  },
+  "Smarty": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Smarty"
+  },
+  "SMT": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/SMT"
+  },
+  "SourcePawn": {
+    "color": "#5c7611",
+    "url": "https://github.com/trending/SourcePawn"
+  },
+  "SQF": {
+    "color": "#3F3F3F",
+    "url": "https://github.com/trending/SQF"
+  },
+  "SQLPL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/SQLPL"
+  },
+  "Squirrel": {
+    "color": "#800000",
+    "url": "https://github.com/trending/Squirrel"
+  },
+  "SRecode Template": {
+    "color": "#348a34",
+    "url": "https://github.com/trending/SRecode-Template"
+  },
+  "Stan": {
+    "color": "#b2011d",
+    "url": "https://github.com/trending/Stan"
+  },
+  "Standard ML": {
+    "color": "#dc566d",
+    "url": "https://github.com/trending/Standard-ML"
+  },
+  "Stata": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Stata"
+  },
+  "SuperCollider": {
+    "color": "#46390b",
+    "url": "https://github.com/trending/SuperCollider"
+  },
+  "Swift": {
+    "color": "#ffac45",
+    "url": "https://github.com/trending/Swift"
+  },
+  "SystemVerilog": {
+    "color": "#DAE1C2",
+    "url": "https://github.com/trending/SystemVerilog"
+  },
+  "Tcl": {
+    "color": "#e4cc98",
+    "url": "https://github.com/trending/Tcl"
+  },
+  "Tcsh": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Tcsh"
+  },
+  "Terra": {
+    "color": "#00004c",
+    "url": "https://github.com/trending/Terra"
+  },
+  "TeX": {
+    "color": "#3D6117",
+    "url": "https://github.com/trending/TeX"
+  },
+  "Thrift": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Thrift"
+  },
+  "TI Program": {
+    "color": "#A0AA87",
+    "url": "https://github.com/trending/TI-Program"
+  },
+  "TLA": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/TLA"
+  },
+  "Turing": {
+    "color": "#cf142b",
+    "url": "https://github.com/trending/Turing"
+  },
+  "TXL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/TXL"
+  },
+  "TypeScript": {
+    "color": "#2b7489",
+    "url": "https://github.com/trending/TypeScript"
+  },
+  "Unified Parallel C": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Unified-Parallel-C"
+  },
+  "Unix Assembly": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Unix-Assembly"
+  },
+  "Uno": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Uno"
+  },
+  "UnrealScript": {
+    "color": "#a54c4d",
+    "url": "https://github.com/trending/UnrealScript"
+  },
+  "UrWeb": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/UrWeb"
+  },
+  "Vala": {
+    "color": "#fbe5cd",
+    "url": "https://github.com/trending/Vala"
+  },
+  "VCL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/VCL"
+  },
+  "Verilog": {
+    "color": "#b2b7f8",
+    "url": "https://github.com/trending/Verilog"
+  },
+  "VHDL": {
+    "color": "#adb2cb",
+    "url": "https://github.com/trending/VHDL"
+  },
+  "Vim script": {
+    "color": "#199f4b",
+    "url": "https://github.com/trending/Vim-script"
+  },
+  "Visual Basic": {
+    "color": "#945db7",
+    "url": "https://github.com/trending/Visual-Basic"
+  },
+  "Volt": {
+    "color": "#1F1F1F",
+    "url": "https://github.com/trending/Volt"
+  },
+  "WebAssembly": {
+    "color": "#04133b",
+    "url": "https://github.com/trending/WebAssembly"
+  },
+  "WebIDL": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/WebIDL"
+  },
+  "wisp": {
+    "color": "#7582D1",
+    "url": "https://github.com/trending/wisp"
+  },
+  "X10": {
+    "color": "#4B6BEF",
+    "url": "https://github.com/trending/X10"
+  },
+  "xBase": {
+    "color": "#403a40",
+    "url": "https://github.com/trending/xBase"
+  },
+  "XC": {
+    "color": "#99DA07",
+    "url": "https://github.com/trending/XC"
+  },
+  "Xojo": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Xojo"
+  },
+  "XProc": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/XProc"
+  },
+  "XQuery": {
+    "color": "#5232e7",
+    "url": "https://github.com/trending/XQuery"
+  },
+  "XS": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/XS"
+  },
+  "XSLT": {
+    "color": "#EB8CEB",
+    "url": "https://github.com/trending/XSLT"
+  },
+  "Xtend": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Xtend"
+  },
+  "Yacc": {
+    "color": "#4B6C4B",
+    "url": "https://github.com/trending/Yacc"
+  },
+  "Zephir": {
+    "color": "#118f9e",
+    "url": "https://github.com/trending/Zephir"
+  },
+  "Zimpl": {
+    "color": "#e6e6e6",
+    "url": "https://github.com/trending/Zimpl"
+  }
+}
