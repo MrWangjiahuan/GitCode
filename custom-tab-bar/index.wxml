@@ -11,8 +11,7 @@
     <view wx:elif="{{i == 2}}" class='action text-gray add-action' data-path="{{item.pagePath}}" data-index="{{i}}" bindtap="switchTab">
       <view class="tab-item-wrapper">
         <icon type="{{item.icon}}" size="{{item.size}}" i-class="bg-gradient"/>
-        <!-- <button class='cu-btn icon-add bg-gradient shadow'></button> -->
-        <span class="tab-text  text-gray">{{item.text}}</span>
+        <span class="tab-text text-gray">{{item.text}}</span>
       </view>
     </view>
   </block>
