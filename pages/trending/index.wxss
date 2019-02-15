@@ -2,8 +2,3 @@
 page{
   padding-bottom: 100rpx;
 }
-.loading{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}

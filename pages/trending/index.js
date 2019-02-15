@@ -13,22 +13,20 @@ Component({
    * 组件的初始数据
    */
   data: {
-    statusBar: app.globalData.StatusBar,
-    customBar: app.globalData.CustomBar
+    statusBar: app.globalData.statusBar,
+    customBar: app.globalData.customBar
   },
 
   /**
    * 组件的方法列表
    */
-  methods: {
-  },
+  methods: {},
   pageLifetimes: {
     show() {
-      if (typeof this.getTabBar === 'function' &&
-        this.getTabBar()) {
+      if (typeof this.getTabBar === "function" && this.getTabBar()) {
         this.getTabBar().setData({
           selected: 0
-        })
+        });
       }
     }
   }

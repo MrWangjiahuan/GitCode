@@ -1,4 +1,6 @@
 // components/loading/index.js
+//获取应用实例
+const app = getApp();
 Component({
   /**
    * 组件的属性列表
@@ -16,7 +18,9 @@ Component({
   /**
    * 组件的初始数据
    */
-  data: {},
+  data: {
+    windowHeight: app.globalData.systemInfo.windowHeight
+  },
 
   /**
    * 组件的方法列表

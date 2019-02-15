@@ -1,10 +1,10 @@
 <!-- components/loading/index.wxml -->
-<view class='bg' wx:if="{{index == 0}}">
+<view class='bg' wx:if="{{index == 0}}" style="margin-top:{{windowHeight/2-100}}px;">
     <image src='../../public/images/loading/loading-white.gif' mode='aspectFit' class='gif-white response' style='height:240rpx'></image>
 </view>
-<view class='bg' wx:elif="{{index == 1}}">
+<view class='bg' wx:elif="{{index == 1}}" style="margin-top:{{windowHeight/2-100}}px;">
     <image src='../../public/images/loading/loading-circle.gif' mode='aspectFit' class='gif-white response' style='height:240rpx'></image>
 </view>
-<view class='bg' wx:else>
+<view class='bg' wx:else style="margin-top:{{windowHeight/2-100}}px;">
     <image src='../../public/images/loading/loading-rhomb.gif' mode='aspectFit' class='gif-white response' style='height:240rpx'></image>
 </view>

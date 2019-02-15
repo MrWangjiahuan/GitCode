@@ -5,8 +5,8 @@ App({
     wx.getSystemInfo({
       success: e => {
         this.globalData.systemInfo = e;
-        this.globalData.StatusBar = e.statusBarHeight;
-        this.globalData.CustomBar =
+        this.globalData.statusBar = e.statusBarHeight;
+        this.globalData.customBar =
           e.platform == "android"
             ? e.statusBarHeight + 50
             : e.statusBarHeight + 45;
