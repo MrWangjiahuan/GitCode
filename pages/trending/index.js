@@ -14,7 +14,8 @@ Component({
    */
   data: {
     statusBar: app.globalData.statusBar,
-    customBar: app.globalData.customBar
+    customBar: app.globalData.customBar,
+    windowHeight: app.globalData.systemInfo.windowHeight
   },
 
   /**

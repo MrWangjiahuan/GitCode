@@ -1,12 +1,13 @@
 <!--pages/trending/index.wxml-->
 <!-- 趋势版本库页面 -->
-<view class='cu-custom' style="height:{{customBar}}px;">
+<view class="cu-custom" style="height:{{customBar}}px;">
     <view class="cu-bar fixed bg-gradient shadow-blur" style="height:{{customBar}}px;padding-top:{{statusBar}}px;">
-        <view class='content'>Trending</view>
+        <view class="content">Trending</view>
     </view>
 </view>
 
-<loading/>
+<loading size="{{260}}" position="{{windowHeight/2-120}}"/>
+<icon type="search" size="{{50}}"></icon>
 
   
 

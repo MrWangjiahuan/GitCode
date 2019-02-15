@@ -1,6 +1,4 @@
 // components/loading/index.js
-//获取应用实例
-const app = getApp();
 Component({
   /**
    * 组件的属性列表
@@ -12,6 +10,20 @@ Component({
     index: {
       type: Number,
       value: 0
+    },
+    /**
+     * loading大小
+     */
+    size: {
+      type: Number,
+      value: 240
+    },
+    /**
+     * loading位置
+     */
+    position: {
+      type: Number,
+      value: 0
     }
   },
 
@@ -19,7 +31,6 @@ Component({
    * 组件的初始数据
    */
   data: {
-    windowHeight: app.globalData.systemInfo.windowHeight
   },
 
   /**
