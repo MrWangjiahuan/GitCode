@@ -7,32 +7,32 @@ Component({
     list: [
       {
         pagePath: "/pages/trending/index",
-        iconPath: "/images/tabbar/basics.png",
-        selectedIconPath: "/images/tabbar/basics_cur.png",
+        icon: "trending",
+        size: 40,
         text: "趋势"
       },
       {
         pagePath: "/pages/hot/index",
-        iconPath: "/images/tabbar/component.png",
-        selectedIconPath: "/images/tabbar/component_cur.png",
+        icon: "hot",
+        size: 40,
         text: "最热"
       },
       {
         pagePath: "/pages/search/index",
-        iconPath: "/images/tabbar/plugin.png",
-        selectedIconPath: "/images/tabbar/plugin_cur.png",
+        icon: "git-logo-search",
+        size: 40,
         text: "搜索"
       },
       {
         pagePath: "/pages/activity/index",
-        iconPath: "/images/tabbar/plugin.png",
-        selectedIconPath: "/images/tabbar/plugin_cur.png",
+        icon: "activity",
+        size: 40,
         text: "动态"
       },
       {
         pagePath: "/pages/my/index",
-        iconPath: "/images/tabbar/about.png",
-        selectedIconPath: "/images/tabbar/about_cur.png",
+        icon: "my",
+        size: 40,
         text: "我的"
       }
     ]
@@ -42,11 +42,11 @@ Component({
       const url = e.currentTarget.dataset.path;
       const index = e.currentTarget.dataset.index;
       if (index == 2) {
-        console.log(url)
+        console.log(url);
         wx.navigateTo({
           url: url,
-          fail:(e)=>{
-            console.log(e)
+          fail: e => {
+            console.log(e);
           }
         });
       } else {
