@@ -1,11 +1,11 @@
 <view class="cu-bar tabbar bg-white shadow">
   <block wx:for="{{list}}" wx:for-index="i" wx:key="i">
     <view wx:if="{{i != 2}}" class='{{selected === i ? "text-green" : "text-gray"}} action' data-path="{{item.pagePath}}" data-index="{{i}}" bindtap="switchTab">
-      <view class='icon-homefill'></view>
+      <view class=' icon-homefill '></view>
       {{item.text}}
     </view>
     <view wx:elif="{{i == 2}}" class='action text-gray add-action' data-path="{{item.pagePath}}" data-index="{{i}}" bindtap="switchTab">
-      <button class='cu-btn icon-add bg-green shadow'></button>
+      <button class='cu-btn icon-add  bg-gradient shadow'></button>
       {{item.text}}
     </view>
   </block>

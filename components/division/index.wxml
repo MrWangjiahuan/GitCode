@@ -1,0 +1,12 @@
+<view class="division">
+    <text class="left-title">{{leftTitle}}</text>
+    <view class="refresh" wx:if="{{showRefresh}}" bind:tap="_refresh">
+        <icon type="refresh" size="28" color="#808080" />
+        <text class="right-title">换一批</text>
+        <view class="line" />
+    </view>
+    <view class="right-wrapper">
+        <text class="right-title">更多</text>
+        <icon type="arrow-right" size="25" color="#808080" />
+    </view>
+</view>

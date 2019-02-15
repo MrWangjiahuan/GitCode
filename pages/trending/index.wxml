@@ -5,4 +5,8 @@
         <view class='content'>Trending</view>
     </view>
 </view>
-<view class="trend-list-wrapper"></view>
+
+<loading />
+
+  
+

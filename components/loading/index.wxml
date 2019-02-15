@@ -1,0 +1,10 @@
+<!-- components/loading/index.wxml -->
+<view class='bg' wx:if="{{index == 0}}">
+    <image src='../../public/images/loading/loading-white.gif' mode='aspectFit' class='gif-white response' style='height:240rpx'></image>
+</view>
+<view class='bg' wx:elif="{{index == 1}}">
+    <image src='../../public/images/loading/loading-circle.gif' mode='aspectFit' class='gif-white response' style='height:240rpx'></image>
+</view>
+<view class='bg' wx:else>
+    <image src='../../public/images/loading/loading-rhomb.gif' mode='aspectFit' class='gif-white response' style='height:240rpx'></image>
+</view>

@@ -1,0 +1,16 @@
+/* components/loading/index.wxss */
+.bg {
+  background-color: #f1f1f1;
+  color: #fff;
+}
+.gif-black{  
+  mix-blend-mode: screen;  
+}
+.gif-white{  
+  mix-blend-mode: multiply; 
+}
+.response {
+  width: 100%;
+}
+
+

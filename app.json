@@ -13,6 +13,13 @@
     "navigationStyle": "custom",
     "navigationBarTextStyle": "white"
   },
+  "usingComponents": {
+    "row": "/components/row/index",
+    "col": "/components/col/index",
+    "icon": "/components/icon/index",
+    "abnor": "/components/abnor/index",
+    "loading": "/components/loading/index"
+  },
   "tabBar": {
     "custom": true,
     "color": "#aaa",
