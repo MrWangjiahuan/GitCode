@@ -1,5 +1,6 @@
 //趋势版本库页面
-
+import { TrendingModel } from "../../models/trending.js";
+const trendModel = new TrendingModel();
 //获取应用实例
 const app = getApp();
 
@@ -17,7 +18,9 @@ Component({
     customBar: app.globalData.customBar,
     windowHeight: app.globalData.systemInfo.windowHeight
   },
-
+  attached(){
+    console.log(trendModel.getTrendList());
+  },
   /**
    * 组件的方法列表
    */

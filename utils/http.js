@@ -12,6 +12,7 @@ class HTTP {
   _request(url, resolve, reject, data = {}, method = "GET") {
     wx.request({
       url: config.api_base_url + url,
+      // url: url,
       method: method,
       data: data,
       header: {

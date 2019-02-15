@@ -1,6 +1,6 @@
 
 const config = {
-    api_base_url: 'https://music.wangjiahuan.top',
-}
+  api_base_url: "https://github.com"
+};
 
 export { config }
