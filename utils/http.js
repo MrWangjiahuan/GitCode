@@ -1,4 +1,5 @@
 import { config } from "../config.js";
+import TrendingUtil from "../utils/trending/trendingUtil";
 
 /**
  * HTTP请求类
@@ -19,9 +20,11 @@ class HTTP {
         "content-type": "application/json"
       },
       success: res => {
+        console.log(res)
         const code = res.statusCode.toString();
         if (code.startsWith("2")) {
-          resolve(res.data);
+          // resolve(res.data);
+          resolve(TrendingUtil.htmlToRepo(res.data));
         } else {
           reject();
         }

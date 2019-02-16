@@ -18,7 +18,9 @@
     "col": "/components/col/index",
     "icon": "/components/icon/index",
     "abnor": "/components/abnor/index",
-    "loading": "/components/loading/index"
+    "loading": "/components/loading/index",
+    "tabs": "/components/tabs/index",
+    "tab": "/components/tab/index"
   },
   "tabBar": {
     "custom": true,

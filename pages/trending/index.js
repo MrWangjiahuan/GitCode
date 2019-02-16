@@ -19,7 +19,9 @@ Component({
     windowHeight: app.globalData.systemInfo.windowHeight
   },
   attached(){
-    console.log(trendModel.getTrendList());
+    trendModel.getTrendList().then(res=>{
+      console.log(res)
+    })
   },
   /**
    * 组件的方法列表
