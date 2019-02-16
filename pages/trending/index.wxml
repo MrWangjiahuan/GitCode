@@ -1,13 +1,18 @@
 <!--pages/trending/index.wxml-->
 <!-- 趋势版本库页面 -->
-<view class="cu-custom" style="height:{{customBar}}px;">
-    <view class="cu-bar fixed bg-gradient shadow-blur" style="height:{{customBar}}px;padding-top:{{statusBar}}px;">
+<view class="cu-custom" style="height:{{customBar}}px;margin-bottom:-1px;">
+    <view class="cu-bar fixed bg-gradient " style="height:{{customBar}}px;padding-top:{{statusBar}}px;">
         <view class="content">Trending</view>
     </view>
 </view>
 
-<loading size="{{260}}" position="{{windowHeight/2-120}}"/>
-<icon type="search" size="{{50}}"></icon>
+<!-- <loading size="{{260}}" position="{{windowHeight/2-120}}"/> -->
+<tabs swipeable animated isColourful border="{{false}}" color="#fff">
+    <tab title="标签 1" title-style="color:#fff;">内容 1</tab>
+    <tab title="标签 2" title-style="color:#fff;">内容 2</tab>
+    <tab title="标签 3" title-style="color:#fff;">内容 3</tab>
+    <tab title="标签 4" title-style="color:#fff;">内容 4</tab>
+</tabs>
 
   
 

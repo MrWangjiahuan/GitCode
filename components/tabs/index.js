@@ -61,6 +61,10 @@ VantComponent({
     scrollTop: {
       type: Number,
       value: 0
+    },
+    isColourful:{
+      type:Boolean,
+      value:false
     }
   },
   data: {
