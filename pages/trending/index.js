@@ -16,12 +16,26 @@ Component({
   data: {
     statusBar: app.globalData.statusBar,
     customBar: app.globalData.customBar,
-    windowHeight: app.globalData.systemInfo.windowHeight
+    windowHeight: app.globalData.systemInfo.windowHeight,
+    tabs: [
+      {
+        title: "每天",
+        titleStyle:"color:#fff;"
+      },
+      {
+        title: "本周",
+        titleStyle: "color:#fff;"
+      },
+      {
+        title: "本月",
+        titleStyle: "color:#fff;"
+      }
+    ]
   },
-  attached(){
-    trendModel.getTrendList().then(res=>{
-      console.log(res)
-    })
+  attached() {
+    trendModel.getTrendList().then(res => {
+      console.log(res);
+    });
   },
   /**
    * 组件的方法列表
