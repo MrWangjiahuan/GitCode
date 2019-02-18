@@ -1,10 +1,10 @@
 <!-- pages/trending/index.wxml -->
 <!-- 趋势版本库页面 -->
-<view class="cu-custom" style="height:{{customBar}}px;margin-bottom:-1px;z-index:100;">
+<!-- <view class="cu-custom" style="height:{{customBar}}px;margin-bottom:-1px;z-index:100;">
     <view class="cu-bar fixed bg-gradient " style="height:{{customBar}}px;padding-top:{{statusBar}}px;">
         <view class="content">Trending</view>
     </view>
-</view>
+</view> -->
 <!-- <loading size="{{260}}" position="{{windowHeight/2-120}}"/> -->
 <tabs active="{{ active }}" swipeable animated isColourful border="{{false}}" color="#fff" bind:change="_onChange">
     <block wx:for="{{tabs}}" wx:key="index">

@@ -6,7 +6,7 @@
 .van-tabs__wrap--scrollable 
 .van-tab{-webkit-flex:0 0 22%;flex:0 0 22%}
 .van-tabs__scroll--card{border:1px solid #f44;border-radius:2px}
-.van-tabs__nav{position:relative;display:-webkit-flex;display:flex;background-color:#fff;-webkit-user-select:none;user-select:none}
+.van-tabs__nav{position:relative;display:-webkit-flex;display:flex;-webkit-user-select:none;user-select:none}
 .van-tabs__nav--line{height:100%}
 .van-tabs__nav--card{height:30px}
 .van-tabs__nav--card 
@@ -26,47 +26,5 @@
 .bg{
     background-color:#fff;
 }
-.bg-gradient {
-	/* color: #fff; */
-	background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
-	background-size: 400% 650%;
-	-webkit-animation: Gradient 15s ease infinite;
-	-moz-animation: Gradient 15s ease infinite;
-	animation: Gradient 15s ease infinite;
-}
 
-@-webkit-keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	50% {
-		background-position: 100% 50%
-	}
-	100% {
-		background-position: 0% 50%
-	}
-}
 
-/* @-moz-keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	50% {
-		background-position: 100% 50%
-	}
-	100% {
-		background-position: 0% 50%
-	}
-} */
-
-@keyframes Gradient {
-	0% {
-		background-position: 0% 50%
-	}
-	50% {
-		background-position: 100% 50%
-	}
-	100% {
-		background-position: 0% 50%
-	}
-}

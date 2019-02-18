@@ -1,5 +1,6 @@
 import { VantComponent } from '../common/component';
 import { touch } from '../mixins/touch';
+const app = getApp();
 VantComponent({
   mixins: [touch],
   relation: {
@@ -74,7 +75,9 @@ VantComponent({
     scrollable: false,
     trackStyle: '',
     wrapStyle: '',
-    position: ''
+    position: '',
+    statusBar: app.globalData.statusBar,
+    customBar: app.globalData.customBar,
   },
   watch: {
     swipeThreshold: function swipeThreshold() {
@@ -97,6 +100,7 @@ VantComponent({
     this.setLine();
     this.setTrack();
     this.scrollIntoView();
+    console.log(this.data.customBar);
   },
   destroyed: function destroyed() {
     wx.createIntersectionObserver(this).disconnect();
