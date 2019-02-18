@@ -9,7 +9,7 @@
       class="van-tabs__scroll--{{ type }}"
       style="{{ color ? 'border-color: ' + color : '' }}"
     >
-      <view class="van-tabs__nav van-tabs__nav--{{ type }} {{isColourful ? 'bg-gradient shadow-blur' : 'bg'}}">
+      <view class="van-tabs__nav van-tabs__nav--{{ type }} {{isColourful ? 'bg-gradient' : 'bg'}}">
         <view wx:if="{{ type === 'line' }}" class="van-tabs__line" style="{{ lineStyle }}" />
         <view
           wx:for="{{ tabs }}"

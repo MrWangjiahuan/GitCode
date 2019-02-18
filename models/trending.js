@@ -1,9 +1,9 @@
 import { HTTP } from "../utils/http.js";
 
 class TrendingModel extends HTTP {
-  getTrendList() {
+  getTrendList(searchText,url) {
     return this.request({
-      url: "/trending/ballerina?since=daily"
+      url: `${url}${searchText}`
     });
   }
 }

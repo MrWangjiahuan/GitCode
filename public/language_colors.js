@@ -1,4 +1,4 @@
-{
+export const lan = {
   "All Languages": {
     "color": "#e6e6e6",
     "url": "https://github.com/trending"

@@ -156,7 +156,6 @@ VantComponent({
           return prev + curr.width;
         }, 0);
         left += (rect.width - width) / 2;
-
         _this.set({
           lineStyle: "\n            " + height + "\n            width: " + width + "px;\n            background-color: " + color + ";\n            -webkit-transform: translateX(" + left + "px);\n            -webkit-transition-duration: " + duration + "s;\n            transform: translateX(" + left + "px);\n            transition-duration: " + duration + "s;\n          "
         });

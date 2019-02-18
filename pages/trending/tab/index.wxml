@@ -1,2 +1,4 @@
 <!--pages/trending/tab/index.wxml-->
-<text>pages/trending/tab/index.wxml</text>
+<view class="container">
+  
+</view>
