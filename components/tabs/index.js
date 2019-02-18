@@ -100,7 +100,6 @@ VantComponent({
     this.setLine();
     this.setTrack();
     this.scrollIntoView();
-    console.log(this.data.customBar);
   },
   destroyed: function destroyed() {
     wx.createIntersectionObserver(this).disconnect();

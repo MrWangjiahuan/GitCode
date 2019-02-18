@@ -15,8 +15,8 @@ Component({
    * 组件的初始数据
    */
   data: {
-    title:"All Languages",
-    url:"https://github.com/trending",
+    title: "All Languages",
+    url: "https://github.com/trending",
     active: 0,
     statusBar: app.globalData.statusBar,
     customBar: app.globalData.customBar,
@@ -46,9 +46,16 @@ Component({
     ]
   },
   attached() {
-    const {tabs,url} = this.data
-    trendModel.getTrendList(tabs[0].searchText,url).then(res => {
-      console.log(res[0].fullName);
+    const { tabs, url } = this.data;
+    this.setData({
+      "tabs[0].showLoading": true
+    });
+    console.log(tabs[0].showLoading);
+    trendModel.getTrendList(tabs[0].searchText, url).then(res => {
+      this.setData({
+        "tabs[0].data": res,
+        "tabs[0].showLoading": false
+      });
     });
   },
   /**
@@ -56,10 +63,14 @@ Component({
    */
   methods: {
     _onChange(event) {
-      wx.showToast({
-        title: `切换到标签 ${event.detail.index + 1}`,
-        icon: "none"
-      });
+      // console.log(event.detail.index);
+      // this.setData({
+      //   active: event.detail.index
+      // });
+      // // wx.showToast({
+      // //   title: `切换到标签 ${event.detail.index + 1}`,
+      // //   icon: "none"
+      // // });
     }
   },
   pageLifetimes: {

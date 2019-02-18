@@ -6,10 +6,11 @@
     </view>
 </view> -->
 <!-- <loading size="{{260}}" position="{{windowHeight/2-120}}"/> -->
-<tabs active="{{ active }}" swipeable animated isColourful border="{{false}}" color="#fff" bind:change="_onChange">
+<tabs active="{{ active }}" swipeable animated border="{{false}}" color="#fff" bind:change="_onChange">
     <block wx:for="{{tabs}}" wx:key="index">
         <tab title="{{item.title}}" title-style="{{item.titleStyle}}">
-            <trending-tab />
+            <loading size="{{260}}" position="{{windowHeight/2-140}}" wx:if="{{item.showLoading}}" />
+            <trending-tab  windowHeight="{{windowHeight}}"  showLoading="{{item.showLoading}}" wx:else/>
         </tab>
     </block>
 </tabs>

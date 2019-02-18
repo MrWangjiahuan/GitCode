@@ -1,4 +1,5 @@
 <!--pages/trending/tab/index.wxml-->
-<view class="container">
-  
-</view>
+<!-- <view class="container">
+  <span>{{showLoading}}</span> -->
+  <!-- <loading size="{{260}}" position="{{windowHeight/2-500}}" wx:if="{{showLoading}}"/> -->
+<!-- </view> -->
